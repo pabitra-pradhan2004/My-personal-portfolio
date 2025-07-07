@@ -45,3 +45,8 @@ In addition to professional content, I have included a personal touch by briefly
 
 Conclusion:-
 Overall, my personal portfolio website is a comprehensive, well-structured, and interactive platform that demonstrates both my technical proficiency and creative abilities. Built using the core web technologies—HTML, CSS, and JavaScript—it stands as a testament to my dedication to learning, growing, and excelling in the field of web development.
+
+
+OUTPUT :-
+
+<img width="1888" height="1026" alt="Image" src="https://github.com/user-attachments/assets/361664ac-09d7-4aa7-a4e2-c8a84b9d8de3" />
